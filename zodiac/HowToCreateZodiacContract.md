@@ -1,5 +1,5 @@
 # overview
-- 设定规则：创建一个zodiac规则，该规则限制某个多签合约每次只能从safe合约转出0.0001个usdt
+- 设定规则：创建一个zodiac规则，该规则限制某个多签合约每次最多只能从safe合约转出0.00001个usdt
 - polygon链为例
 ## architecture 
 - zodiac和safe的关系图
